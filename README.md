@@ -49,7 +49,8 @@ La temperatura del soldador debe ser adecuada según la composición de la aleac
 ### **Temperatura recomendada del soldador:**  
 - Para aleaciones sin plomo (SAC, Sn-Cu): **350-400°C**  
 
-⚠️ **Consejo:** Evita temperaturas superiores a 400°C, ya que pueden dañar los componentes y la PCB. También usa un buen flujo para facilitar la soldadura. 🔥🔧  
+⚠️ **Consejo:** Evita temperaturas superiores a 400°C, ya que pueden dañar los componentes y la PCB.
+También usa un buen "flux" para facilitar la soldadura. 🔥🔧  
 
 <img src="img/soldador.jpg" alt="Soldador" width="300">  
 <img src="img/estaño.jpg" alt="Estaño" width="300">  
