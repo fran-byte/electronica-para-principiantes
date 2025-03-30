@@ -41,6 +41,8 @@ Estos alicates están diseñados exclusivamente para cortar los pines de los com
 ## **Soldador y Rollo de Estaño**  
 La temperatura del soldador debe ser adecuada según la composición de la aleación utilizada. En este caso, elegiremos un soldador para aleaciones sin plomo.  
 
+<img src="img/soldador.jpg" alt="Soldador" width="300">  
+
 ### **Aleaciones sin Plomo (RoHS, más usadas hoy en día):**  
 - **99.3/0.7 (Sn/Cu)** → 227°C  
 - **SAC305 (96.5% Sn, 3% Ag, 0.5% Cu)** → 217-221°C  
@@ -52,7 +54,7 @@ La temperatura del soldador debe ser adecuada según la composición de la aleac
 ⚠️ **Consejo:** Evita temperaturas superiores a 400°C, ya que pueden dañar los componentes y la PCB.
 También usa un buen "flux" para facilitar la soldadura. 🔥🔧  
 
-<img src="img/soldador.jpg" alt="Soldador" width="300">  
-<img src="img/estaño.jpg" alt="Estaño" width="300">  
+
+
 
 ---
