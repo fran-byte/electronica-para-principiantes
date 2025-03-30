@@ -10,8 +10,10 @@ Aquí encontrarás información sobre las herramientas esenciales para comenzar,
 - **Multímetro**  
 - **Pinzas**  
 - **Alicates de corte**  
-- **Soldador y rollo de estaño**  
-- **Fuente de alimentación**  
+- **Soldador y rollo de estaño**
+- **Desoldador de mano** 
+- **Fuente de alimentación**
+- **Juego de destronilladores de precision o relojero**
 
 ---
 
@@ -38,10 +40,12 @@ Estos alicates están diseñados exclusivamente para cortar los pines de los com
 
 ---
 
-## **Soldador y Rollo de Estaño**  
+## **Soldador, Desoldador y Rollo de Estaño**  
 La temperatura del soldador debe ser adecuada según la composición de la aleación utilizada. En este caso, elegiremos un soldador para aleaciones sin plomo.  
 
 <img src="img/soldador.jpg" alt="Soldador" width="300">  
+
+<img src="img/desoldador" alt="Desoldador" width="300">  
 
 ### **Aleaciones sin Plomo (RoHS, más usadas hoy en día):**  
 - **99.3/0.7 (Sn/Cu)** → 227°C  
