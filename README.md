@@ -45,7 +45,7 @@ La temperatura del soldador debe ser adecuada según la composición de la aleac
 
 <img src="img/soldador.jpg" alt="Soldador" width="300">  
 
-<img src="img/desoldador" alt="Desoldador" width="300">  
+<img src="img/desoldador.jpg" alt="Desoldador" width="300">  
 
 ### **Aleaciones sin Plomo (RoHS, más usadas hoy en día):**  
 - **99.3/0.7 (Sn/Cu)** → 227°C  
