@@ -27,20 +27,17 @@
 - Exenciales para cortar los pines de los componetes.
   
 - Estos alicates están diseñados exclusivamente para cortar los pines de los componentes electrónicos. No deben usarse para cortar materiales más duros, ya que podrían dañarse, perdiendo su filo y volviéndose inutilizables para su propósito.
+- 
 
   <img src="img/palicates.jpg" alt="Alicates" width="300">
 
 # SOLDADOR y ROLLO DE ESTAÑO 
 
- - La temperatura que debe alcanzar un soldador para fundir las aleaciones de estaño y otros metales varía según la composición de la aleación. Aquí tienes los rangos típicos de temperatura:
- - 
-1. Aleaciones de Estaño-Plomo (Sn-Pb) (antiguas aleaciones)
+ - La temperatura que debe alcanzar un soldador para fundir las aleaciones de estaño y otros metales varía según la composición de la aleación.
 
-    60/40 (Sn/Pb) → 183-190°C
-
-    63/37 (Sn/Pb, eutéctica) → 183°C (punto de fusión exacto)
-
-2. Aleaciones sin Plomo (RoHS, más usadas hoy en día)
+   (Elegiremos un soldador para aleaciones sin PLOMO)
+   
+- Aleaciones sin Plomo (RoHS, más usadas hoy en día)
 
     99.3/0.7 (Sn/Cu) → 227°C
 
@@ -50,8 +47,11 @@
 
 Temperatura recomendada del soldador:
 
-    Para Sn-Pb: 300-350°C
-
     Para aleaciones sin plomo (SAC, Sn-Cu): 350-400°C
 
 ⚠️ Consejo: Evita temperaturas muy altas (más de 400°C), ya que pueden dañar los componentes y la PCB. También usa un buen flujo para facilitar la soldadura. 🔥🔧
+
+
+<img src="img/soldador.jpg" alt="Soldador width="300">
+
+<img src="img/estaño.jpg" alt="estaño" width="300">
