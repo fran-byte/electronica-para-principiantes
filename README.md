@@ -59,8 +59,10 @@ También usa un buen "flux" para facilitar la soldadura. 🔥🔧
 
 ## **Fuente de Alimentación**
 
-- Las Fuentes de alimentación no son baratas, así que para empezar podria serte util una fuente que te suministrara 5V y 12V, podrias conseguir una funete vieja de un PC.
-  
+- Las Fuentes de alimentación no son baratas, así que para empezar podria serte util una fuente que te suministrara 5V y 12V, podrias conseguirla de un viejo PC.
+
+  <img src="img/fuente.webp" alt="alimentaciones" width="300">  
+
   Los cables/colores que nos interesan son ROJO, AMARILLO y NEGRO:
   
   - ROJO +5V
