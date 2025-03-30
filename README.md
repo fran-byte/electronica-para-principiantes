@@ -63,6 +63,8 @@ También usa un buen "flux" para facilitar la soldadura. 🔥🔧
   
   Los cables/colores que nos interesan son ROJO, AMARILLO y NEGRO:
   
-  Los cables Rojos y negros, serán +5v y Masa (Negativo) el color Negro.
-  
-  Los cables Amarillos serán +12V, y Masa también el color Negro
+  - ROJO +5V
+    
+  - NEGRO MASA, NEGATIVO o 0V como queramos llamarlo
+    
+  - AMARILLO +12V
