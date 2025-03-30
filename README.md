@@ -27,6 +27,7 @@ Un modelo básico es suficiente para comenzar, ya que son muy económicos.
 
 ## **Placa Protoboard**
 Una placa donde iremos montado para testear nuestros proyectos es realmente indispensable.
+Podemos adquirirla junto a cables de inserción para la protoboard.
 
 <img src="img/protoboard.jpg" alt="Protoboard" width="300"> 
 
