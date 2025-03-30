@@ -7,7 +7,8 @@ Aquí encontrarás información sobre las herramientas esenciales para comenzar,
 
 ## **Herramientas Indispensables**  
 
-- **Multímetro**  
+- **Multímetro**
+- **Placa Protoboard**
 - **Pinzas**  
 - **Alicates de corte**  
 - **Soldador y rollo de estaño**
@@ -21,6 +22,13 @@ Aquí encontrarás información sobre las herramientas esenciales para comenzar,
 Un modelo básico es suficiente para comenzar, ya que son muy económicos.  
 
 <img src="img/multi.jpg" alt="Multímetro" width="300">  
+
+---
+
+## **Placa Protoboard**
+Una placa donde iremos montado para testear nuestros proyectos es realmente indispensable.
+
+<img src="img/protoboard.jpg" alt="Protoboard" width="300"> 
 
 ---
 
