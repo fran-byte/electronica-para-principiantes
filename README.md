@@ -82,6 +82,6 @@ También usa un buen "flux" para facilitar la soldadura. 🔥🔧
 - Un pequeño juego de destorilladores de precisión (solo se utilizaran para atornillar sin demasiada fuerza)
 - Si queremos algun destornillador mediano para ejercer mayor fuerza para tornilleria de mayor grosor también podremos adquirirlos
 
-  <img src="img/destornillador" alt="Destornilladores" width="300">  
+  <img src="img/destornillador.jpg" alt="Destornilladores" width="300">  
 
 ---
