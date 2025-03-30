@@ -1,6 +1,3 @@
-Aquí tienes tu texto mejor redactado con mejor fluidez y corrección:  
-
----
 
 # **Electrónica para Principiantes**  
 
