@@ -62,5 +62,7 @@ También usa un buen "flux" para facilitar la soldadura. 🔥🔧
 - Las Fuentes de alimentación no son baratas, así que para empezar podria serte util una fuente que te suministrara 5V y 12V, podrias conseguir una funete vieja de un PC.
   
   Los cables/colores que nos interesan son ROJO, AMARILLO y NEGRO:
+  
   Los cables Rojos y negros, serán +5v y Masa (Negativo) el color Negro.
+  
   Los cables Amarillos serán +12V, y Masa también el color Negro
