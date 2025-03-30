@@ -27,7 +27,7 @@
 - Exenciales para cortar los pines de los componetes.
   
 - Estos alicates están diseñados exclusivamente para cortar los pines de los componentes electrónicos. No deben usarse para cortar materiales más duros, ya que podrían dañarse, perdiendo su filo y volviéndose inutilizables para su propósito.
-- 
+  
 
   <img src="img/palicates.jpg" alt="Alicates" width="300">
 
@@ -53,5 +53,6 @@ Temperatura recomendada del soldador:
 
 
 <img src="img/soldador.jpg" alt="Soldador width="300">
+
 
 <img src="img/estaño.jpg" alt="estaño" width="300">
