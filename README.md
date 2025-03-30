@@ -34,7 +34,7 @@ Esenciales para cortar los pines de los componentes.
 
 Estos alicates están diseñados exclusivamente para cortar los pines de los componentes electrónicos. No deben usarse para materiales más duros, ya que podrían dañarse, perdiendo su filo y volviéndose inutilizables para su propósito.  
 
-<img src="img/palicates.jpg" alt="Alicates" width="300">  
+<img src="img/alicates.jpg" alt="Alicates" width="300">  
 
 ---
 
