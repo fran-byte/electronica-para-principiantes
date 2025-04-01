@@ -166,28 +166,11 @@ V = I × R
   - Usadas para **alimentación (+Vcc)** y **tierra (GND)**.  
   - Conexión **vertical** (normalmente 25 agujeros por barra, a veces divididas en mitades).  
 
-#### **🔹 Conexiones Internas**  
-- **Filas horizontales (ej: A-E)**:  
-  ```  
-  A1-B1-C1-D1-E1 → Conectados entre sí.  
-  F1-G1-H1-I1-J1 → Conectados entre sí (pero NO con A1-E1).  
-  ```  
-- **Barras laterales**:  
-  ```  
-  Todos los agujeros "rojos" (+) están conectados en una columna.  
-  Todos los azules (-) en otra.  
-  ```  
+## Video Tutorial de Protoboard
 
-#### **🔹 Cómo Usarla**  
-1. **Alimentación**: Conecta **+Vcc** (rojo) y **GND** (azul) a las barras laterales.  
-2. **Componentes**: Inserta patas o cables en **agujeros de la misma fila** para conectarlos.  
-3. **ICs**: Colócalos **sobre la ranura central** (cada pin quedará en una fila independiente).  
+Aprende a usar una protoboard con este video:
 
-#### **⚠️ Consejos Clave**  
-- Usa **cables rígidos AWG 22-26** (0.4–0.6 mm de diámetro) para conexiones seguras.  
-- Verifica conexiones con un **multímetro** (modo continuidad) si hay dudas.  
-- **Evita cortocircuitos**: No conectes +Vcc y GND en la misma fila horizontal.  
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/61C953UsX9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### **⚠️ Las protoboards no sirven para circuitos de alta frecuencia o corrientes altas (>1A). ¡Son solo para prototipado rápido!**
