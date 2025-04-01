@@ -42,10 +42,16 @@ Ideal para probar circuitos sin soldar. Recomendable comprarla con cables de con
 
 ---  
 
-### **4. Alicates de Corte**  
-Especializados para cortar pines de componentes. **No los uses para materiales duros** o perderán su filo.  
+### **4. Alicates de Corte y de Sujección**  
+Especializados para cortar pines de componentes. **No los uses para materiales duros** o perderán su filo.
 
 <img src="img/alicates.jpg" alt="Alicates" width="300">  
+
+También nos pude venir vien unos pequeños alicates de sujeccíon o agarre.
+
+<img src="img/alicates.avif" alt="Alicates" width="300">  
+
+
 
 ---  
 
