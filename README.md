@@ -11,7 +11,7 @@ Aquí encontrarás una selección de **cursos, tutoriales, herramientas y consej
 
 ## 🛠 **¿Por dónde empezar?**  
 1. [Herramientas](Módulo 1 Herramientas.md)
-2. [Conceptos básicos](Módulo 2 Conceptos básicos.md) : Conceptos esenciales (ley de Ohm, circuitos, componentes). 
+2. ([Módulo 2 Conceptos básicos.md)](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%202%20Conceptos%20b%C3%A1sicos.md) : Conceptos esenciales (ley de Ohm, circuitos, componentes). 
 3. **Cursos y tutoriales**: Curso completo de Electrónica paso a paso.  
 4. **Curso completo de Arduino**: + 7h de duración.  
 
