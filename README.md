@@ -112,7 +112,7 @@
     
 ## Ver VIDEO:
 
-[![Diodos (https://img.youtube.com/vi/x0uIMIGqIBI/maxresdefault.jpg)](https://youtu.be/x0uIMIGqIBI)
+[[![Diodos (https://img.youtube.com/vi/x0uIMIGqIBI/maxresdefault.jpg)]([https://youtu.be/x0uIMIGqIBI](https://www.youtube.com/watch?v=x0uIMIGqIBI))](https://www.youtube.com/watch?v=x0uIMIGqIBI)
 
 ### **🔘 Pulsadores e Interruptores**  
 - **Tipos**:  
