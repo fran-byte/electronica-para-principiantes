@@ -195,10 +195,13 @@ V = I × R
 
 ## **🔹 Práctica: Circuito LED + Resistencia + Batería**  
 
+  <img src="img/Circuito_LED.png" alt="Circuito_LED.png" width="500">  
+
+
 ### **Materiales**:  
 - 1 LED rojo (2V).  
 - 1 Resistencia de 220Ω.  
-- Batería de 5V (o 2 pilas AA).  
+- Batería de 5V.  
 - Protoboard y cables.  
 
 ### **Pasos**:  
