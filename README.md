@@ -93,11 +93,15 @@
 
 ## **1.2 Componentes Básicos**  
 
-### **🎨 Resistencias y Código de Colores**  
+### **🎨 Resistencias y Código de Colores ver VIDEO: **  
+
+[![Codigos colores de resistencias](https://img.youtube.com/vi/scl3N_HEpZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=scl3N_HEpZQ)
+
+
 - **Cálculo rápido**:  
   <img src="img/codigos-colores-resistencias.webp" alt="Código de colores" width="500">  
  
-[![Codigos colores de resistencias](https://img.youtube.com/vi/scl3N_HEpZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=scl3N_HEpZQ)
+
 
 
 ### **💡 Diodos LEDs y Resistencias Limitadoras**  
