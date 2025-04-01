@@ -93,12 +93,13 @@
 
 ## **1.2 Componentes Básicos**  
 
-### **🎨 Resistencias y Código de Colores ver VIDEO: **  
+### 🎨 Resistencias y Código de Colores ver VIDEO:  
 
 [![Codigos colores de resistencias](https://img.youtube.com/vi/scl3N_HEpZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=scl3N_HEpZQ)
 
 
-- **Cálculo rápido**:  
+- **Cálculo rápido**:
+  
   <img src="img/codigos-colores-resistencias.webp" alt="Código de colores" width="500">  
  
 
