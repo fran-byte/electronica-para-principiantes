@@ -30,7 +30,12 @@
 ### 4. **PartSim**  
 🔗 [https://www.partsim.com](https://www.partsim.com)  
 - Enfocado en análisis de circuitos avanzados.  
-- Menos intuitivo pero muy preciso.  
+- Menos intuitivo pero muy preciso.
+
+### 5. **Microsoft Maker Code**  
+🔗 [[https://www.partsim.com](https://maker.makecode.com/)
+- Se realiza mediante bloques visuales.  
+- También se puede optar por programar en Python o JavaScript. 
 
 ---
 
