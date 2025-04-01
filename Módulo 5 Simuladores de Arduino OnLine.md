@@ -39,13 +39,6 @@
 
 ---
 
-## 📌 **Tips para Simular**  
-- Usa **Tinkercad** si es tu primera vez.  
-- En **Wokwi**, prueba proyectos con WiFi virtual (ideal para IoT).  
-- Compara resultados entre simuladores y hardware real.  
-
----
-
 🚀 **¡A programar!**  
 *"La simulación es el primer paso hacia el prototipo perfecto."*  
 
