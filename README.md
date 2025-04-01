@@ -12,7 +12,7 @@ Aquí encontrarás una selección de **cursos, tutoriales, herramientas y consej
 ## 🛠 **¿Por dónde empezar?**  
 1. [Herramientas](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%201%20Herramientas.md)
 2. [Conceptos básicos](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%202%20Conceptos%20b%C3%A1sicos.md) : Conceptos esenciales (ley de Ohm, circuitos, componentes). 
-3. [Cursos Electrónica](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%203%20Curso%20B%C3%A1sico%20de%20Electr%C3%B3nica.md) : Curso completo de Electrónica paso a paso.  
+3. [Curso Electrónica](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%203%20Curso%20B%C3%A1sico%20de%20Electr%C3%B3nica.md) : Curso completo de Electrónica paso a paso.  
 4. [Curso completo de Arduino](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%204%20Arduino%20desde%20Cero.md) : + 7h de duración.  
 
 ### 🔌 **Recursos recomendados**  
