@@ -108,10 +108,11 @@
 ### **💡 Diodos LEDs y Resistencias Limitadoras**  
 - **Polaridad del LED**:  
   - **Ánodo (+)**: Pata más larga.  
-  - **Cátodo (-)**: Lado plano del LED.  
+  - **Cátodo (-)**: Lado plano del LED.
+    
 ## Ver VIDEO:
 
-[![Guía Completa de Circuitos - Haz clic para ver](https://img.youtube.com/vi/x0uIMIGqIBI/maxresdefault.jpg)](https://youtu.be/x0uIMIGqIBI "Ver tutorial completo")
+[![Diodos (https://img.youtube.com/vi/x0uIMIGqIBI/maxresdefault.jpg)](https://youtu.be/x0uIMIGqIBI)
 
 ### **🔘 Pulsadores e Interruptores**  
 - **Tipos**:  
