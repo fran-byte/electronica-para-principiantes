@@ -190,7 +190,7 @@ V = I × R
 
 
 
-**⚠️ Las protoboards no sirven para circuitos de alta frecuencia o corrientes altas (>1A). ¡Son solo para prototipado rápido!
+#### **⚠️ Las protoboards no sirven para circuitos de alta frecuencia o corrientes altas (>1A). ¡Son solo para prototipado rápido!**
 ---
 
 ## **🔹 Práctica: Circuito LED + Resistencia + Batería**  
