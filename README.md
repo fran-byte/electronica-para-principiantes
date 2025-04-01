@@ -93,13 +93,10 @@ Aprende la LEY de OHM con este video:
 
  
 
-### **📏 Uso del Multímetro**  
-| **Funciòn** | **Què mide** | **Còmo usarlo** |  
-|-------------|--------------|----------------|  
-| **Voltaje (DC/AC)** | Diferencia de potencial entre dos puntos | Colocar puntas en paralelo al componente |  
-| **Corriente (A)** | Flujo de electrones | Interrumpir el circuito y conectar en serie |  
-| **Resistencia (Ω)** | Valor de resistencias | ⚠️Medir con componente desconectado |  
-| **Continuidad** | Cortocircuitos o conexiones rotas | Pitará si hay conexión (resistencia ≈ 0Ω) ⚠️Medimos sin alimentar el circuito  |  
+### **📏 Uso del Multímetro ver Video:**  
+
+[![Multimetro](https://img.youtube.com/vi/9XGib6fpRpw/maxresdefault.jpg)](https://www.youtube.com/watch?v=9XGib6fpRpw)
+
 
 **⚠️ Precaución**: Nunca midas corriente en paralelo (podrías quemar el multímetro) y asegurate el rango de trabajo también (A  mA  uA).  
 
