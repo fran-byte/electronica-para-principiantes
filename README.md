@@ -134,10 +134,10 @@ V = I × R
   - Dividir voltaje (divisor de tensión).  
 
 ### **💡 LEDs y Resistencias Limitadoras**  
-- **Polaridad**:  
+- **Polaridad del LED**:  
   - **Ánodo (+)**: Pata más larga.  
   - **Cátodo (-)**: Lado plano del LED.  
-- **Fórmula para calcular la resistencia**:  
+- **Fórmula para calcular la resistencia del LED**:  
   ```  
   R = (V_fuente - V_LED) / I_LED  
   ```  
@@ -156,14 +156,41 @@ V = I × R
     ```  
 
 ### **🛠️ Protoboard: Conexiones Básicas**  
-- **Estructura**:  
-  <img src="img/protoboard-internal.jpg" alt="Conexiones protoboard" width="400">  
-  - **Filas horizontales** (centrales): Conectadas en grupos de 5.  
-  - **Barras laterales**: Para alimentación (+ y -).  
 
-- **Regla de oro**:  
-  > "Sigue las líneas azules/rojas para evitar cortocircuitos".  
+#### **🔹 Estructura Básica**  
+- **Agujeros estándar**: Espaciados a **2.54 mm** (para componentes como ICs, resistencias, LEDs).  
+- **Filas centrales**:  
+  - **5 agujeros por fila** conectados **horizontalmente** (pero **no entre columnas**).  
+  - Ideal para insertar **circuitos integrados (ICs)** en la ranura central.  
+- **Barras laterales (rojo/azul)**:  
+  - Usadas para **alimentación (+Vcc)** y **tierra (GND)**.  
+  - Conexión **vertical** (normalmente 25 agujeros por barra, a veces divididas en mitades).  
 
+#### **🔹 Conexiones Internas**  
+- **Filas horizontales (ej: A-E)**:  
+  ```  
+  A1-B1-C1-D1-E1 → Conectados entre sí.  
+  F1-G1-H1-I1-J1 → Conectados entre sí (pero NO con A1-E1).  
+  ```  
+- **Barras laterales**:  
+  ```  
+  Todos los agujeros "rojos" (+) están conectados en una columna.  
+  Todos los azules (-) en otra.  
+  ```  
+
+#### **🔹 Cómo Usarla**  
+1. **Alimentación**: Conecta **+Vcc** (rojo) y **GND** (azul) a las barras laterales.  
+2. **Componentes**: Inserta patas o cables en **agujeros de la misma fila** para conectarlos.  
+3. **ICs**: Colócalos **sobre la ranura central** (cada pin quedará en una fila independiente).  
+
+#### **⚠️ Consejos Clave**  
+- Usa **cables rígidos AWG 22-26** (0.4–0.6 mm de diámetro) para conexiones seguras.  
+- Verifica conexiones con un **multímetro** (modo continuidad) si hay dudas.  
+- **Evita cortocircuitos**: No conectes +Vcc y GND en la misma fila horizontal.  
+
+
+
+**⚠️ Las protoboards no sirven para circuitos de alta frecuencia o corrientes altas (>1A). ¡Son solo para prototipado rápido!
 ---
 
 ## **🔹 Práctica: Circuito LED + Resistencia + Batería**  
