@@ -32,11 +32,7 @@
 
 ### **🛠️ Protoboard: Conexiones Básicas**  
 [![Tutorial de Protoboard](https://img.youtube.com/vi/61C953UsX9I/maxresdefault.jpg)](https://www.youtube.com/watch?v=61C953UsX9I)  
-**Estructura**:  
-- **Filas horizontales**: 5 agujeros conectados (ideal para ICs).  
-- **Barras laterales**: Alimentación (+Vcc) y tierra (GND) en conexión vertical.  
-**⚠️ Limitaciones**:  
-- No apta para alta frecuencia o corrientes >1A.  
+ 
 
 ### **🔌 Diodos en Serie y Paralelo**  
 [![Configuración de Diodos](https://img.youtube.com/vi/O-PKDlaztoM/maxresdefault.jpg)](https://youtu.be/O-PKDlaztoM)  
