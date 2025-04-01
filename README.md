@@ -8,7 +8,7 @@ Aquí encontrarás las herramientas esenciales y conceptos básicos para dar tus
 
 ---
 
-## **Herramientas Indispensables**  
+## **Adquisición de Herramientas Imprescindibles**  
 
 - **Multímetro**  
 - **Placa Protoboard**  
