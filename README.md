@@ -115,10 +115,10 @@ V = I × R
 |-------------|--------------|----------------|  
 | **Voltaje (DC/AC)** | Diferencia de potencial entre dos puntos | Colocar puntas en paralelo al componente |  
 | **Corriente (A)** | Flujo de electrones | Interrumpir el circuito y conectar en serie |  
-| **Resistencia (Ω)** | Valor de resistencias | Medir con componente desconectado |  
-| **Continuidad** | Cortocircuitos o conexiones rotas | Pitará si hay conexión (resistencia ≈ 0Ω) |  
+| **Resistencia (Ω)** | Valor de resistencias | ⚠️Medir con componente desconectado |  
+| **Continuidad** | Cortocircuitos o conexiones rotas | Pitará si hay conexión (resistencia ≈ 0Ω) ⚠️Medimos sin alimentar el circuito  |  
 
-**⚠️ Precaución**: Nunca midas corriente en paralelo (podrías quemar el multímetro).  
+**⚠️ Precaución**: Nunca midas corriente en paralelo (podrías quemar el multímetro) y asegurate el rango de trabajo también (A  mA  uA).  
 
 ---
 
