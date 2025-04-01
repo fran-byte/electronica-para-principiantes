@@ -50,7 +50,7 @@ Especializados para cortar pines de componentes. **No los uses para materiales d
 ---  
 
 ### **5. Soldador, Estaño y Desoldador**  
-**Soldador sin plomo (RoHS)**: Usa temperaturas entre **350–400°C** para evitar daños.  
+**Soldador sin plomo (RoHS)**.  
 
 #### 🔥 **Aleaciones comunes y puntos de fusión**:  
 - **Sn-Cu (99.3/0.7)**: 227°C  
