@@ -2,15 +2,9 @@
 
 # **Electrónica para Principiantes**
 
-( Más orientada a microcontroladores )
-
-No profundizaremos demasiado en teoría, sino que te daremos una guía práctica para iniciarte en el fascinante mundo de la electrónica.  
-
-Aquí encontrarás las herramientas esenciales y conceptos básicos para dar tus primeros pasos.  
-
 ---
 
-## **Adquisición de Herramientas Imprescindibles**  
+## **MODULO 1 - Adquisición de Herramientas Imprescindibles**  
 
 - **Multímetro**  
 - **Placa Protoboard**  
