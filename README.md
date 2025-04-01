@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td><strong>6. Fuente de Alimentación</strong></td>
-    <td>Opción económica/casera (fuente PC) o profesional (variable).</td>
+    <td>Opción económica/casera (fuente PC) / profesional (variable).</td>
     <td>
       <img src="img/fuente.webp" width="200">
       <img src="img/fa.avif" width="200">
