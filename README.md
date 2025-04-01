@@ -76,18 +76,7 @@
 
 ## **1.1 Voltaje, Corriente y Resistencia**  
 
-### **⚡ Ley de Ohm**  
-Fórmula fundamental:  
-```  
-V = I × R  
-```  
-- **Ejemplo práctico**: Si un LED necesita 20mA (0.02A) y usamos una batería de 5V que resistencia necesitaremos:  
-  ```  
-  R = V / I = 5V / 0.02A = 250 Ω  
-  ```  
-  *(Usaríamos una resistencia estándar de 220Ω o 330Ω).*
-
-Aprende la LEY de OHM con este video:
+### **⚡ Ley de Ohm ver video**  
 
 [![Ley de Ohm](https://img.youtube.com/vi/wHQrMuJAjak/0.jpg)](https://www.youtube.com/watch?v=wHQrMuJAjak)
 
