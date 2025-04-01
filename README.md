@@ -104,7 +104,7 @@ Fórmula fundamental:
 ```  
 V = I × R  
 ```  
-- **Ejemplo práctico**: Si un LED necesita 20mA (0.02A) y usamos una batería de 5V:  
+- **Ejemplo práctico**: Si un LED necesita 20mA (0.02A) y usamos una batería de 5V que resistencia necesitaremos:  
   ```  
   R = V / I = 5V / 0.02A = 250 Ω  
   ```  
