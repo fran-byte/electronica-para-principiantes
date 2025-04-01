@@ -114,14 +114,6 @@
 
 [![Diodos Led](https://img.youtube.com/vi/x0uIMIGqIBI/hqdefault.jpg)](https://youtu.be/x0uIMIGqIBI)
 
-### **🔘 Pulsadores e Interruptores**  
-- **Tipos**:  
-  - **NA (Normalmente Abierto)**: Sólo cierra circuito al presionar.  
-  - **Pull-up/Pull-down**: Evitan estados "flotantes" en microcontroladores.  
-    ```cpp  
-    // Ejemplo en Arduino (pull-up interno):  
-    pinMode(boton, INPUT_PULLUP);  
-    ```  
 
 ### **🛠️ Protoboard: Conexiones Básicas**  
 
