@@ -96,11 +96,9 @@
 ### **🎨 Resistencias y Código de Colores**  
 - **Cálculo rápido**:  
   <img src="img/codigos-colores-resistencias.webp" alt="Código de colores" width="500">  
-  - Ejemplo: **Amarillo (4) - Violeta (7) - Rojo (×100) = 4700 Ω (4.7kΩ)**.  
+ 
+[![Codigos colores de resistencias](https://img.youtube.com/vi/scl3N_HEpZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=scl3N_HEpZQ)
 
-- **Usos comunes**:  
-  - Limitar corriente a LEDs.  
-  - Dividir voltaje (divisor de tensión).  
 
 ### **💡 Diodos LEDs y Resistencias Limitadoras**  
 - **Polaridad del LED**:  
