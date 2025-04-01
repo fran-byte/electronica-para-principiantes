@@ -1,6 +1,8 @@
 
 
-# **Electrónica para Principiantes**  
+# **Electrónica para Principiantes**
+
+( Más orientada a microcontroladores )
 
 No profundizaremos demasiado en teoría, sino que te daremos una guía práctica para iniciarte en el fascinante mundo de la electrónica.  
 
