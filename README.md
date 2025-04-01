@@ -2,6 +2,7 @@
 
 # **Electrónica para Principiantes**
 
+(Orientada a microcontroladroes Arduino...)
 ---
 
 ## **MÓDULO 1 - Adquisición de Herramientas Imprescindibles**  
