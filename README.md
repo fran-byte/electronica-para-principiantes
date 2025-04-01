@@ -144,26 +144,10 @@ Aprende a usar una protoboard con este video:
 #### **⚠️ Las protoboards no sirven para circuitos de alta frecuencia o corrientes altas (>1A). ¡Son solo para prototipado rápido!**
 ---
 
-## **🔹 Práctica: Circuito LED + Resistencia + Batería**  
+## Diodos en Serie y Paralelo
 
-  <img src="img/circuito-con-led.webp" alt="Circuito_LED.png" width="500">  
+[![Diosos en serie y paralelo](https://img.youtube.com/vi/O-PKDlaztoM/maxresdefault.jpg)](https://youtu.be/O-PKDlaztoM?t=0)
 
-
-### **Materiales**:  
-- 1 LED rojo (2V).  
-- 1 Resistencia de 220Ω.  
-- Batería de 5V.  
-- Protoboard y cables.  
-
-### **Pasos**:  
-1. Conecta el **ánodo del LED** (pata larga) a la **resistencia**.  
-2. Une la resistencia al **positivo (+) de la batería**.  
-3. Conecta el **cátodo del LED** (pata corta) al **negativo (-)**.  
-4. ¡El LED debe encenderse!  
-
-**💡 Reto opcional**:  
-- Mide el voltaje en el LED con el multímetro (debe ser ≈2V).  
-- Cambia la resistencia a 470Ω y observa cambios en el brillo.  
 
 ---
 
