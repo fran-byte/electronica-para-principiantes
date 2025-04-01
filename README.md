@@ -71,6 +71,8 @@ Especializados para cortar pines de componentes. **No los uses para materiales d
 
 **Opción profesional**: Fuente variable (ej: 0–30V, 0–5A/10A).  
 
+<img src="img/fa.avif" alt="Fuente" width="300">  
+
 ---  
 
 ### **7. Destornilladores de Precisión**  
