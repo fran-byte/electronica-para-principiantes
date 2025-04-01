@@ -109,14 +109,9 @@
 - **Polaridad del LED**:  
   - **Ánodo (+)**: Pata más larga.  
   - **Cátodo (-)**: Lado plano del LED.  
-- **Fórmula para calcular la resistencia del LED**:  
-  ```  
-  R = (V_fuente - V_LED) / I_LED  
-  ```  
-  - *Ejemplo*: Batería 5V, LED rojo (2V, 20mA):  
-    ```  
-    R = (5V - 2V) / 0.02A = 150 Ω  
-    ```  
+## Ver VIDEO:
+
+[![Guía Completa de Circuitos - Haz clic para ver](https://img.youtube.com/vi/x0uIMIGqIBI/maxresdefault.jpg)](https://youtu.be/x0uIMIGqIBI "Ver tutorial completo")
 
 ### **🔘 Pulsadores e Interruptores**  
 - **Tipos**:  
