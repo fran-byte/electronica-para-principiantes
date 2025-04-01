@@ -34,9 +34,9 @@
   </tr>
   <tr>
     <td><strong>4. Alicates</strong></td>
-    <td>De corte (izq) y sujeción (der). ¡No cortar materiales duros perderán su filo!</td>
+    <td>De corte  y sujeción. ¡No cortar materiales duros perderán su filo!</td>
     <td>
-      <img src="img/alicates.jpg" width="200">
+      <img src="img/alicates.jpg" width="200"><br>
       <img src="img/alicates.avif" width="200">
     </td>
   </tr>
