@@ -85,3 +85,119 @@ Para tornillos pequeños. Si necesitas más fuerza, añade un juego de destornil
 
 ---  
 
+# **Módulo 2: Conceptos Básicos de Electrónica**  
+*(Fundamentos esenciales antes de programar microcontroladores)*  
+
+---
+
+## **1.1 Voltaje, Corriente y Resistencia**  
+
+### **🔌 Conceptos Clave**  
+- **Voltaje (V)**: (unidad: Voltios).  
+  - Ejemplo: Una batería de 9V tiene una diferencia de potencial de 9 voltios entre sus polos.  
+- **Corriente (I)**: Flujo de electrones (unidad: Amperios).  
+  - **¡Cuidado!**: Corrientes altas (>100mA) pueden dañar componentes.  
+- **Resistencia (R)**: Oposición al flujo de corriente (unidad: Ohmios Ω).  
+
+### **⚡ Ley de Ohm**  
+Fórmula fundamental:  
+```  
+V = I × R  
+```  
+- **Ejemplo práctico**: Si un LED necesita 20mA (0.02A) y usamos una batería de 5V:  
+  ```  
+  R = V / I = 5V / 0.02A = 250 Ω  
+  ```  
+  *(Usaríamos una resistencia estándar de 220Ω o 330Ω).*  
+
+### **📏 Uso del Multímetro**  
+| **Funciòn** | **Què mide** | **Còmo usarlo** |  
+|-------------|--------------|----------------|  
+| **Voltaje (DC/AC)** | Diferencia de potencial entre dos puntos | Colocar puntas en paralelo al componente |  
+| **Corriente (A)** | Flujo de electrones | Interrumpir el circuito y conectar en serie |  
+| **Resistencia (Ω)** | Valor de resistencias | Medir con componente desconectado |  
+| **Continuidad** | Cortocircuitos o conexiones rotas | Pitará si hay conexión (resistencia ≈ 0Ω) |  
+
+**⚠️ Precaución**: Nunca midas corriente en paralelo (podrías quemar el multímetro).  
+
+---
+
+## **1.2 Componentes Básicos**  
+
+### **🎨 Resistencias y Código de Colores**  
+- **Cálculo rápido**:  
+  <img src="img/codigo-colores.jpg" alt="Código de colores" width="400">  
+  - Ejemplo: **Amarillo (4) - Violeta (7) - Rojo (×100) = 4700 Ω (4.7kΩ)**.  
+
+- **Usos comunes**:  
+  - Limitar corriente a LEDs.  
+  - Dividir voltaje (divisor de tensión).  
+
+### **💡 LEDs y Resistencias Limitadoras**  
+- **Polaridad**:  
+  - **Ánodo (+)**: Pata más larga.  
+  - **Cátodo (-)**: Lado plano del LED.  
+- **Fórmula para calcular la resistencia**:  
+  ```  
+  R = (V_fuente - V_LED) / I_LED  
+  ```  
+  - *Ejemplo*: Batería 5V, LED rojo (2V, 20mA):  
+    ```  
+    R = (5V - 2V) / 0.02A = 150 Ω  
+    ```  
+
+### **🔘 Pulsadores e Interruptores**  
+- **Tipos**:  
+  - **NA (Normalmente Abierto)**: Sólo cierra circuito al presionar.  
+  - **Pull-up/Pull-down**: Evitan estados "flotantes" en microcontroladores.  
+    ```cpp  
+    // Ejemplo en Arduino (pull-up interno):  
+    pinMode(boton, INPUT_PULLUP);  
+    ```  
+
+### **🛠️ Protoboard: Conexiones Básicas**  
+- **Estructura**:  
+  <img src="img/protoboard-internal.jpg" alt="Conexiones protoboard" width="400">  
+  - **Filas horizontales** (centrales): Conectadas en grupos de 5.  
+  - **Barras laterales**: Para alimentación (+ y -).  
+
+- **Regla de oro**:  
+  > "Sigue las líneas azules/rojas para evitar cortocircuitos".  
+
+---
+
+## **🔹 Práctica: Circuito LED + Resistencia + Batería**  
+
+### **Materiales**:  
+- 1 LED rojo (2V).  
+- 1 Resistencia de 220Ω.  
+- Batería de 5V (o 2 pilas AA).  
+- Protoboard y cables.  
+
+### **Pasos**:  
+1. Conecta el **ánodo del LED** (pata larga) a la **resistencia**.  
+2. Une la resistencia al **positivo (+) de la batería**.  
+3. Conecta el **cátodo del LED** (pata corta) al **negativo (-)**.  
+4. ¡El LED debe encenderse!  
+
+**💡 Reto opcional**:  
+- Mide el voltaje en el LED con el multímetro (debe ser ≈2V).  
+- Cambia la resistencia a 470Ω y observa cambios en el brillo.  
+
+---
+
+## **📌 Resumen del Módulo 1**  
+- **Ley de Ohm**: Relaciona voltaje, corriente y resistencia.  
+- **Multímetro**: Herramienta clave para medir y diagnosticar.  
+- **Componentes pasivos**: Resistencias, LEDs, pulsadores.  
+- **Protoboard**: Base para prototipado rápido.  
+
+**⬆️ Siguiente módulo**: Entradas/Salidas digitales con microcontroladores.  
+
+--- 
+
+**¿Dudas?** Revisa estos simuladores para practicar sin riesgos:  
+- [Tinkercad Circuits](https://www.tinkercad.com/circuits)  
+- [Falstad Circuit Simulator](https://falstad.com/circuit/)  
+
+¿Quieres profundizar en algún tema en particular? 😊
