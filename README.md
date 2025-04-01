@@ -126,7 +126,7 @@ V = I × R
 
 ### **🎨 Resistencias y Código de Colores**  
 - **Cálculo rápido**:  
-  <img src="img/codigo-colores.jpg" alt="Código de colores" width="400">  
+  <img src="img/codigos-colores-resistencias.webp" alt="Código de colores" width="400">  
   - Ejemplo: **Amarillo (4) - Violeta (7) - Rojo (×100) = 4700 Ω (4.7kΩ)**.  
 
 - **Usos comunes**:  
