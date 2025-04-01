@@ -195,7 +195,7 @@ V = I × R
 
 ## **🔹 Práctica: Circuito LED + Resistencia + Batería**  
 
-  <img src="img/Circuito_LED.png" alt="Circuito_LED.png" width="500">  
+  <img src="img/circuito-con-led.webp" alt="Circuito_LED.png" width="500">  
 
 
 ### **Materiales**:  
