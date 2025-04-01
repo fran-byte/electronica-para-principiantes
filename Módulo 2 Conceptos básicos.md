@@ -1,4 +1,3 @@
-
 # **Módulo 2: Conceptos Básicos de Electrónica**  
 *(Fundamentos esenciales antes de programar microcontroladores)*  
 
@@ -6,70 +5,46 @@
 
 ## **1.1 Voltaje, Corriente y Resistencia**  
 
-### **⚡ Ley de Ohm ver video**  
+### **⚡ Ley de Ohm**  
+[![Ley de Ohm - Video Tutorial](https://img.youtube.com/vi/wHQrMuJAjak/maxresdefault.jpg)](https://www.youtube.com/watch?v=wHQrMuJAjak)  
+*Fórmula fundamental: V = I × R*  
 
-[![Ley de Ohm](https://img.youtube.com/vi/wHQrMuJAjak/0.jpg)](https://www.youtube.com/watch?v=wHQrMuJAjak)
-
- 
-
-### **📏 Uso del Multímetro ver Video:**  
-
-[![Multimetro](https://img.youtube.com/vi/9XGib6fpRpw/maxresdefault.jpg)](https://www.youtube.com/watch?v=9XGib6fpRpw)
-
-
-**⚠️ Precaución**: Nunca midas corriente en paralelo (podrías quemar el multímetro) y asegurate el rango de trabajo también (A  mA  uA).  
+### **📏 Uso del Multímetro**  
+[![Cómo usar un Multímetro](https://img.youtube.com/vi/9XGib6fpRpw/maxresdefault.jpg)](https://www.youtube.com/watch?v=9XGib6fpRpw)  
+**⚠️ Precaución**:  
+- Nunca midas corriente en paralelo (riesgo de dañar el multímetro).  
+- Verifica el rango de trabajo (A, mA, µA).  
 
 ---
 
 ## **1.2 Componentes Básicos**  
 
-### 🎨 Resistencias y Código de Colores ver VIDEO:  
-
-[![Codigos colores de resistencias](https://img.youtube.com/vi/scl3N_HEpZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=scl3N_HEpZQ)
-
-
-- **Cálculo rápido**:
-  
-  <img src="img/codigos-colores-resistencias.webp" alt="Código de colores" width="500">  
- 
-
-
+### **🎨 Resistencias y Código de Colores**  
+[![Código de Colores de Resistencias](https://img.youtube.com/vi/scl3N_HEpZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=scl3N_HEpZQ)  
+**Cálculo rápido**:  
+![Código de colores](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/resistor-resistor-colour-code-chart.png)  
+*(Imagen: Tabla de códigos de colores estándar)*  
 
 ### **💡 Diodos LEDs y Resistencias Limitadoras**  
-- **Polaridad del LED**:  
-  - **Ánodo (+)**: Pata más larga.  
-  - **Cátodo (-)**: Lado plano del LED.
-    
-## Ver VIDEO:
-
-[![Diodos Led](https://img.youtube.com/vi/x0uIMIGqIBI/hqdefault.jpg)](https://youtu.be/x0uIMIGqIBI)
-
+[![Funcionamiento de LEDs](https://img.youtube.com/vi/x0uIMIGqIBI/maxresdefault.jpg)](https://youtu.be/x0uIMIGqIBI)  
+**Claves**:  
+- **Ánodo (+)**: Pata más larga.  
+- **Cátodo (-)**: Lado plano del LED.  
 
 ### **🛠️ Protoboard: Conexiones Básicas**  
+[![Tutorial de Protoboard](https://img.youtube.com/vi/61C953UsX9I/maxresdefault.jpg)](https://www.youtube.com/watch?v=61C953UsX9I)  
+**Estructura**:  
+- **Filas horizontales**: 5 agujeros conectados (ideal para ICs).  
+- **Barras laterales**: Alimentación (+Vcc) y tierra (GND) en conexión vertical.  
+**⚠️ Limitaciones**:  
+- No apta para alta frecuencia o corrientes >1A.  
 
-#### **🔹 Estructura Básica**  
-- **Agujeros estándar**: Espaciados a **2.54 mm** (para componentes como ICs, resistencias, LEDs).  
-- **Filas centrales**:  
-  - **5 agujeros por fila** conectados **horizontalmente** (pero **no entre columnas**).  
-  - Ideal para insertar **circuitos integrados (ICs)** en la ranura central.  
-- **Barras laterales (rojo/azul)**:  
-  - Usadas para **alimentación (+Vcc)** y **tierra (GND)**.  
-  - Conexión **vertical** (normalmente 25 agujeros por barra, a veces divididas en mitades).  
-
-## Video Tutorial de Protoboard
-
-Aprende a usar una protoboard con este video:
-
-[![Cómo usar una Protoboard](https://img.youtube.com/vi/61C953UsX9I/0.jpg)](https://www.youtube.com/watch?v=61C953UsX9I)
-
-
-#### **⚠️ Las protoboards no sirven para circuitos de alta frecuencia o corrientes altas (>1A). ¡Son solo para prototipado rápido!**
----
-
-## Diodos en Serie y Paralelo
-
-[![Diosos en serie y paralelo](https://img.youtube.com/vi/O-PKDlaztoM/maxresdefault.jpg)](https://youtu.be/O-PKDlaztoM?t=0)
-
+### **🔌 Diodos en Serie y Paralelo**  
+[![Configuración de Diodos](https://img.youtube.com/vi/O-PKDlaztoM/maxresdefault.jpg)](https://youtu.be/O-PKDlaztoM)  
 
 ---
 
+### **📌 Tips Visuales**  
+1. Todas las miniaturas de videos tienen el mismo tamaño (`maxresdefault.jpg`).  
+2. Imágenes complementarias con ancho uniforme (ej: `width=500`).  
+3. Secciones separadas por líneas (`---`) para mejor legibilidad.  
