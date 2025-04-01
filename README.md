@@ -11,26 +11,18 @@ Aquí encontrarás una selección de **cursos, tutoriales, herramientas y consej
 
 ## 🛠 **¿Por dónde empezar?**  
 1. **Herramientas**
-2. **Conceptos básicos*: Conceptos esenciales (ley de Ohm, circuitos, componentes). 
+2. **Conceptos básicos**: Conceptos esenciales (ley de Ohm, circuitos, componentes). 
 3. **Cursos y tutoriales**: Curso completo de Electrónica paso a paso.  
 4. **Curso completo de Arduino**: + 7h de duración.  
 
 ### 🔌 **Recursos recomendados**  
 📹 [Web oficial Arduino](https://www.arduino.cc/)  
-📖 [Guía de componentes electrónicos](enlace_libro.md)  
-🛒 [Kit de iniciación recomendado](enlace_kit.md)  
+📖 [Guía de componentes electrónicos](https://www.globalwellpcba.com/es/componentes-de-pcb-una-guia-completa/)  
+🛒 [Kit de iniciación recomendado](https://www.youtube.com/watch?v=WO8OYpB8deg) 
 
 ---
 
 ### 🚀 **¡Manos a la obra!**  
 La electrónica es un mundo fascinante que combina teoría y práctica. **¡No tengas miedo a experimentar y quemar algunos componentes en el proceso!** (Todos lo hemos hecho 😉).  
 
-🔗 Explora los enlaces y elige tu propia aventura.  
 
---- 
-
-**Nota**: Si tienes sugerencias o recursos adicionales, ¡siéntete libre de contribuir!  
-
---- 
-
-¿Te gustaría que añada alguna sección específica (como "Proyectos para principiantes" o "Errores comunes")? 😊
