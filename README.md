@@ -76,13 +76,6 @@
 
 ## **1.1 Voltaje, Corriente y Resistencia**  
 
-### **🔌 Conceptos Clave**  
-- **Voltaje (V)**: (unidad: Voltios).  
-  - Ejemplo: Una batería de 9V tiene una diferencia de potencial de 9 voltios entre sus polos.  
-- **Corriente (I)**: Flujo de electrones (unidad: Amperios).  
-  - **¡Cuidado!**: Corrientes altas (>100mA) pueden dañar componentes.  
-- **Resistencia (R)**: Oposición al flujo de corriente (unidad: Ohmios Ω).  
-
 ### **⚡ Ley de Ohm**  
 Fórmula fundamental:  
 ```  
@@ -92,7 +85,11 @@ V = I × R
   ```  
   R = V / I = 5V / 0.02A = 250 Ω  
   ```  
-  *(Usaríamos una resistencia estándar de 220Ω o 330Ω).*  
+  *(Usaríamos una resistencia estándar de 220Ω o 330Ω).*
+
+[![Ley de Ohm(https://img.youtube.com/vi/wHQrMuJAjak/0.jpg)]( https://www.youtube.com/watch?v=wHQrMuJAjak)
+
+ 
 
 ### **📏 Uso del Multímetro**  
 | **Funciòn** | **Què mide** | **Còmo usarlo** |  
