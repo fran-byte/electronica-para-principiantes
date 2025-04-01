@@ -1,6 +1,4 @@
-Aquí tienes la versión mejorada y más clara de tu documento, manteniendo los enlaces y mejorando la estructura y redacción:  
 
----  
 
 # **Electrónica para Principiantes**  
 
