@@ -3,7 +3,7 @@
 
 Bienvenido/a a este repositorio de recursos para aprender **electrónica desde cero** y adentrarte en el mundo de **Arduino**.  
 
-Aquí encontrarás una selección de **cursos, tutoriales, herramientas y consejos** que te ayudarán a:  
+Aquí encontrarás una selección de links de **cursos, tutoriales, herramientas y consejos** que te ayudarán a:  
 ✅ Entender los fundamentos de la electrónica.  
 ✅ Aprender a manejar componentes básicos (resistencias, capacitores, microcontroladores, etc.).  
 ✅ Desarrollar proyectos prácticos con **Arduino**.  
