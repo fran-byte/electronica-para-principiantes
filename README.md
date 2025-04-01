@@ -216,18 +216,3 @@ V = I × R
 
 ---
 
-## **📌 Resumen del Módulo 1**  
-- **Ley de Ohm**: Relaciona voltaje, corriente y resistencia.  
-- **Multímetro**: Herramienta clave para medir y diagnosticar.  
-- **Componentes pasivos**: Resistencias, LEDs, pulsadores.  
-- **Protoboard**: Base para prototipado rápido.  
-
-**⬆️ Siguiente módulo**: Entradas/Salidas digitales con microcontroladores.  
-
---- 
-
-**¿Dudas?** Revisa estos simuladores para practicar sin riesgos:  
-- [Tinkercad Circuits](https://www.tinkercad.com/circuits)  
-- [Falstad Circuit Simulator](https://falstad.com/circuit/)  
-
-¿Quieres profundizar en algún tema en particular? 😊
