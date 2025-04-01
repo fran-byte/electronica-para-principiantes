@@ -4,7 +4,7 @@
 
 ---
 
-## **MODULO 1 - Adquisición de Herramientas Imprescindibles**  
+## **MÓDULO 1 - Adquisición de Herramientas Imprescindibles**  
 
 - **Multímetro**  
 - **Placa Protoboard**  
