@@ -23,17 +23,12 @@
 
 [![Código de Colores de Resistencias](https://img.youtube.com/vi/scl3N_HEpZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=scl3N_HEpZQ)  
 
-**Cálculo rápido**:  
-
-![Código de colores](https://www.electronics-tutorials.ws/wp-content/uploads/2018/05/resistor-resistor-colour-code-chart.png)  
 
 *(Imagen: Tabla de códigos de colores estándar)*  
 
 ### **💡 Diodos LEDs y Resistencias Limitadoras**  
 [![Funcionamiento de LEDs](https://img.youtube.com/vi/x0uIMIGqIBI/maxresdefault.jpg)](https://youtu.be/x0uIMIGqIBI)  
-**Claves**:  
-- **Ánodo (+)**: Pata más larga.  
-- **Cátodo (-)**: Lado plano del LED.  
+
 
 ### **🛠️ Protoboard: Conexiones Básicas**  
 [![Tutorial de Protoboard](https://img.youtube.com/vi/61C953UsX9I/maxresdefault.jpg)](https://www.youtube.com/watch?v=61C953UsX9I)  
