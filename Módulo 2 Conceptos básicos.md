@@ -27,7 +27,7 @@
 *(Imagen: Tabla de códigos de colores estándar)*  
 
 ### **💡 Diodos LEDs y Resistencias Limitadoras**  
-[![Funcionamiento de LEDs](https://img.youtube.com/vi/x0uIMIGqIBI/maxresdefault.jpg)](https://youtu.be/x0uIMIGqIBI)  
+[![Funcionamiento de LEDs](https://youtu.be/x0uIMIGqIBI)  
 
 
 ### **🛠️ Protoboard: Conexiones Básicas**  
