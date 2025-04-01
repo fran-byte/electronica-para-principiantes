@@ -133,7 +133,7 @@ V = I × R
   - Limitar corriente a LEDs.  
   - Dividir voltaje (divisor de tensión).  
 
-### **💡 LEDs y Resistencias Limitadoras**  
+### **💡 Diodos LEDs y Resistencias Limitadoras**  
 - **Polaridad del LED**:  
   - **Ánodo (+)**: Pata más larga.  
   - **Cátodo (-)**: Lado plano del LED.  
