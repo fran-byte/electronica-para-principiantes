@@ -170,11 +170,7 @@ V = I × R
 
 Aprende a usar una protoboard con este video:
 
-<div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/61C953UsX9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
+[![Cómo usar una Protoboard](https://img.youtube.com/vi/61C953UsX9I/0.jpg)](https://www.youtube.com/watch?v=61C953UsX9I)
 
 
 #### **⚠️ Las protoboards no sirven para circuitos de alta frecuencia o corrientes altas (>1A). ¡Son solo para prototipado rápido!**
