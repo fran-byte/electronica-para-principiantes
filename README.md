@@ -87,7 +87,7 @@ V = I × R
   ```  
   *(Usaríamos una resistencia estándar de 220Ω o 330Ω).*
 
-[![Ley de Ohm(https://img.youtube.com/vi/wHQrMuJAjak/0.jpg)]( https://www.youtube.com/watch?v=wHQrMuJAjak)
+[![Ley de Ohm](https://img.youtube.com/vi/wHQrMuJAjak/0.jpg)](https://www.youtube.com/watch?v=wHQrMuJAjak)
 
  
 
