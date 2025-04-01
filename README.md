@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td><strong>4. Alicates</strong></td>
-    <td>De corte (izq) y sujeción (der). ¡No cortar materiales duros!</td>
+    <td>De corte (izq) y sujeción (der). ¡No cortar materiales duros perderán su filo!</td>
     <td>
       <img src="img/alicates.jpg" width="200">
       <img src="img/alicates.avif" width="200">
@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td><strong>6. Fuente de Alimentación</strong></td>
-    <td>Opción económica (fuente PC) o profesional (variable).</td>
+    <td>Opción económica/casera (fuente PC) o profesional (variable).</td>
     <td>
       <img src="img/fuente.webp" width="200">
       <img src="img/fa.avif" width="200">
