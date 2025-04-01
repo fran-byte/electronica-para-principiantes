@@ -49,7 +49,7 @@ Especializados para cortar pines de componentes. **No los uses para materiales d
 
 <img src="img/alicates.jpg" alt="Alicates" width="300">  
 
-También nos pude venir vien unos pequeños alicates de sujeccíon o agarre.
+Pequeños alicates de sujeccíon o agarre.
 
 <img src="img/alicates.avif" alt="Alicates" width="300">  
 
