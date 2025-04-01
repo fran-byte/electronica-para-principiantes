@@ -43,8 +43,3 @@
 [![Configuración de Diodos](https://img.youtube.com/vi/O-PKDlaztoM/maxresdefault.jpg)](https://youtu.be/O-PKDlaztoM)  
 
 ---
-
-### **📌 Tips Visuales**  
-1. Todas las miniaturas de videos tienen el mismo tamaño (`maxresdefault.jpg`).  
-2. Imágenes complementarias con ancho uniforme (ej: `width=500`).  
-3. Secciones separadas por líneas (`---`) para mejor legibilidad.  
