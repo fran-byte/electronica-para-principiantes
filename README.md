@@ -10,8 +10,8 @@ Aquí encontrarás una selección de **cursos, tutoriales, herramientas y consej
 ✅ Optimizar tus diseños con tips de expertos.  
 
 ## 🛠 **¿Por dónde empezar?**  
-1. **Herramientas**
-2. **Conceptos básicos**: Conceptos esenciales (ley de Ohm, circuitos, componentes). 
+1. **[Herramientas]**(Módulo 1 Herramientas.md)
+2. **[Conceptos básicos]**(Módulo 2 Conceptos básicos.md): Conceptos esenciales (ley de Ohm, circuitos, componentes). 
 3. **Cursos y tutoriales**: Curso completo de Electrónica paso a paso.  
 4. **Curso completo de Arduino**: + 7h de duración.  
 
