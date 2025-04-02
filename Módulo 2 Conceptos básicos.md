@@ -24,7 +24,7 @@
 [![Código de Colores de Resistencias](https://img.youtube.com/vi/scl3N_HEpZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=scl3N_HEpZQ)  
 
 
-*(Imagen: Tabla de códigos de colores estándar)*  
+
 
 ### **💡 Diodos LEDs y Resistencias Limitadoras**  
 [Funcionamiento de LEDs](https://youtu.be/x0uIMIGqIBI)  
