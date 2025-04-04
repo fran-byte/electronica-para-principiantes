@@ -13,8 +13,8 @@ Aquí encontrarás una selección de links de **cursos, tutoriales, herramientas
 ## Videos:
 1. [Herramientas](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%201%20Herramientas.md)
 2. [Conceptos básicos](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%202%20Conceptos%20b%C3%A1sicos.md) : Conceptos esenciales (ley de Ohm, circuitos, componentes). 
-3. [Curso Electrónica](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%203%20Curso%20B%C3%A1sico%20de%20Electr%C3%B3nica.md) : ( 4h ) Electrónica paso a paso.  
-4. [Curso completo de Arduino](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%204%20Arduino%20desde%20Cero.md) : ( 7h ) Arduino paso a paso.  
+3. [Curso Electrónica](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%203%20Curso%20B%C3%A1sico%20de%20Electr%C3%B3nica.md) : Electrónica paso a paso ( 4 horas )   
+4. [Curso completo de Arduino](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%204%20Arduino%20desde%20Cero.md) :  Arduino paso a paso ( 7 horas )  
 5. [Simuladores de Arduino](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%205%20Simuladores%20de%20Arduino%20OnLine.md#-simuladores-de-arduino-online)
 
 
