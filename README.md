@@ -23,11 +23,9 @@ Aquí encontrarás una selección de links de **cursos, tutoriales, herramientas
 *(Enfocados en electrónica fundamental y programación embebida con Arduino)*  
 
 
-## **⚡ Proyectos para Nivel Intermedio**  
-*(Incluyen comunicación, sistemas integrados y control avanzado)* 
+## **⚡ Proyectos**  
 
-
-| Nivel Básico (Iniciados)          | Nivel Intermedio                     |
+| Nivel Básico                      | Nivel Intermedio                     |
 |-----------------------------------|--------------------------------------|
 | **1. LED Parpadeante**            | **1. Monitor de Consumo**            |
 | - Arduino UNO                     | - Arduino/ESP32                      |
