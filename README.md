@@ -18,7 +18,7 @@ Aquí encontrarás una selección de links de **cursos, tutoriales, herramientas
 5. [Simuladores de Arduino](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%205%20Simuladores%20de%20Arduino%20OnLine.md#-simuladores-de-arduino-online)
 
 
-## **⚡ Proyectos**  
+## **⚡ Algunas ideas sobre Proyectos**  
 
 | Nivel Básico                      | Nivel Intermedio                     |
 |-----------------------------------|--------------------------------------|
