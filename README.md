@@ -28,57 +28,57 @@ Aquí encontrarás una selección de links de **cursos, tutoriales, herramientas
 
 | Nivel Básico (Iniciados)          │ Nivel Intermedio                     |
 |-----------------------------------│--------------------------------------|
-| **1. LED Parpadeante**            │ **1. Monitor de Consumo**           |
-| - Arduino UNO                     │ - Arduino/ESP32                     |
-| - LED + resistencia 220Ω          │ - Sensor ACS712 (30A/5A)            |
-| - Protoboard + cables             │ - Pantalla OLED/I2C                 |
-|                                   │ - Cables de medición                |
+| **1. LED Parpadeante**            │ **1. Monitor de Consumo**            |
+| - Arduino UNO                     │ - Arduino/ESP32                      |
+| - LED + resistencia 220Ω          │ - Sensor ACS712 (30A/5A)             |
+| - Protoboard + cables             │ - Pantalla OLED/I2C                  |
+|                                   │ - Cables de medición                 |
 |                                   │                                      |
-| **2. Semáforo con LEDs**          │ **2. Escáner WiFi**                 |
-| - 3 LEDs (R/A/V) + resistencias   │ - ESP32/ESP8266                     |
-| - Protoboard                      │ - Pantalla LCD 16x2                 |
-|                                   │ - Batería 9V (opcional)             |
+| **2. Semáforo con LEDs**          │ **2. Escáner WiFi**                  |
+| - 3 LEDs (R/A/V) + resistencias   │ - ESP32/ESP8266                      |
+| - Protoboard                      │ - Pantalla LCD 16x2                  |
+|                                   │ - Batería 9V (opcional)              |
 |                                   │                                      |
-| **3. Control LED con Pulsador**   │ **3. Robot Seguidor de Línea**      |
-| - Pulsador                        │ - Chasis robot + ruedas             |
-| - Resistencia 10kΩ (pull-down)    │ - Sensores TCRT5000 (2-4 unidades)  |
-| - LED + resistencia 220Ω         │ - Driver L298N                      |
-|                                   │ - Batería LiPo                      |
+| **3. Control LED con Pulsador**   │ **3. Robot Seguidor de Línea**       |
+| - Pulsador                        │ - Chasis robot + ruedas              |
+| - Resistencia 10kΩ (pull-down)    │ - Sensores TCRT5000 (2-4 unidades)   |
+| - LED + resistencia 220Ω          │ - Driver L298N                       |
+|                                   │ - Batería LiPo                       |
 |                                   │                                      |
-| **4. Sensor de Luz (LDR)**        │ **4. Estación Meteorológica**       |
-| - Fotorresistencia                │ - Sensor BME280 (T/H/P)             |
-| - Resistencia 10kΩ               │ - Pantalla LCD I2C                  |
-| - LED (opcional)                  │ - Protoboard + cables I2C           |
+| **4. Sensor de Luz (LDR)**        │ **4. Estación Meteorológica**        |
+| - Fotorresistencia                │ - Sensor BME280 (T/H/P)              |
+| - Resistencia 10kΩ                │ - Pantalla LCD I2C                   |
+| - LED (opcional)                  │ - Protoboard + cables I2C            |
 |                                   │                                      |
-| **5. Buzzer con Melodía**         │ **5. Control por Bluetooth**        |
-| - Buzzer pasivo                   │ - Módulo HC-05/06                   |
-| - Potenciómetro (volumen)         │ - App móvil (ej: Arduino Bluetooth) |
-|                                   │ - LED + resistencia 1kΩ            |
+| **5. Buzzer con Melodía**         │ **5. Control por Bluetooth**         |
+| - Buzzer pasivo                   │ - Módulo HC-05/06                    |
+| - Potenciómetro (volumen)         │ - App móvil (ej: Arduino Bluetooth)  |
+|                                   │ - LED + resistencia 1kΩ              |
 |                                   │                                      |
-| **6. Contador 7 Segmentos**       │ **6. Brazo Robótico**               |
-| - Display 7 segmentos             │ - 4-6 Servomotores SG90             |
-| - Resistencias 220Ω (x8)         │ - Estructura (madera/impresión 3D)  |
-| - Pulsador                        │ - Joystick/potenciómetros           |
+| **6. Contador 7 Segmentos**       │ **6. Brazo Robótico**                |
+| - Display 7 segmentos             │ - 4-6 Servomotores SG90              |
+| - Resistencias 220Ω (x8)          │ - Estructura (madera/impresión 3D)   |
+| - Pulsador                        │ - Joystick/potenciómetros            |
 |                                   │                                      |
-| **7. Termómetro con LEDs**        │ **7. Pantalla Mensajes**            |
-| - Sensor LM35                     │ - Matriz LED 8x8 (MAX7219)          |
-| - 2-3 LEDs (indicadores)          │ - Librería LedControl               |
-|                                   │ - Protoboard                        |
+| **7. Termómetro con LEDs**        │ **7. Pantalla Mensajes**             |
+| - Sensor LM35                     │ - Matriz LED 8x8 (MAX7219)           |
+| - 2-3 LEDs (indicadores)          │ - Librería LedControl                |
+|                                   │ - Protoboard                         |
 |                                   │                                      |
-| **8. Control Motor DC**           │ **8. Cerradura Electrónica**        |
-| - Motor DC + diodo 1N4007         │ - Teclado matricial 4x4             |
-| - Transistor 2N2222               │ - Servomotor                        |
-| - Fuente externa 5-12V            │ - LED indicador                     |
+| **8. Control Motor DC**           │ **8. Cerradura Electrónica**         |
+| - Motor DC + diodo 1N4007         │ - Teclado matricial 4x4              |
+| - Transistor 2N2222               │ - Servomotor                         |
+| - Fuente externa 5-12V            │ - LED indicador                      |
 |                                   │                                      |
-| **9. Juego de Reacción**          │ **9. IoT Ambiental**                |
-| - LED + pulsador                  │ - ESP8266/ESP32                     |
-| - Resistencia 220Ω               │ - Sensor DHT22/BME280               |
-|                                   │ - Plataforma IoT (ThingSpeak/Blynk) |
+| **9. Juego de Reacción**          │ **9. IoT Ambiental**                 |
+| - LED + pulsador                  │ - ESP8266/ESP32                      |
+| - Resistencia 220Ω                │ - Sensor DHT22/BME280                |
+|                                   │ - Plataforma IoT (ThingSpeak/Blynk)  |
 |                                   │                                      |
-| **10. Alarma con PIR**            │ **10. Theremin Electrónico**        |
-| - Sensor HC-SR501                 │ - Sensor ultrasónico HC-SR04        |
-| - Buzzer                          │ - Buzzer pasivo                     |
-| - LED (opcional)                  │ - Potenciómetro (afinación)         |
+| **10. Alarma con PIR**            │ **10. Theremin Electrónico**         |
+| - Sensor HC-SR501                 │ - Sensor ultrasónico HC-SR04         |
+| - Buzzer                          │ - Buzzer pasivo                      |
+| - LED (opcional)                  │ - Potenciómetro (afinación)          |
 
 ---
 
