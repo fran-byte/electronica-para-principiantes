@@ -24,7 +24,8 @@ Aquí encontrarás una selección de links de **cursos, tutoriales, herramientas
 
 
 ## **⚡ Proyectos para Nivel Intermedio**  
-*(Incluyen comunicación, sistemas integrados y control avanzado)*  
+*(Incluyen comunicación, sistemas integrados y control avanzado)* 
+
 | Nivel Básico (Iniciados)          │ Nivel Intermedio                     |
 |-----------------------------------│--------------------------------------|
 | **1. LED Parpadeante**            │ **1. Monitor de Consumo**           |
@@ -78,6 +79,7 @@ Aquí encontrarás una selección de links de **cursos, tutoriales, herramientas
 | - Sensor HC-SR501                 │ - Sensor ultrasónico HC-SR04        |
 | - Buzzer                          │ - Buzzer pasivo                     |
 | - LED (opcional)                  │ - Potenciómetro (afinación)         |
+
 ---
 
 ### **📌 Observaciones**  
