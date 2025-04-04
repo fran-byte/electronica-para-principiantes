@@ -19,6 +19,7 @@ Aquí encontrarás una selección de links de **cursos, tutoriales, herramientas
 
 
 ## **⚡ Algunas ideas sobre Proyectos**  
+ ( Antes de iniciar los proyectos es necesario repasar los tutoriales )
 
 | Nivel Básico                      | Nivel Intermedio                     |
 |-----------------------------------|--------------------------------------|
