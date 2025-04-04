@@ -1,5 +1,5 @@
 
-# 📚 **Introducción a la Electrónica y Arduino**  
+# 📚 **Links con recursos de introducción a la Electrónica y Arduino**  
 
 Bienvenido/a a este repositorio de recursos para aprender **electrónica desde cero** y adentrarte en el mundo de **Arduino**.  
 
