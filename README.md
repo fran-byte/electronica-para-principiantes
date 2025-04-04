@@ -17,11 +17,6 @@ Aquí encontrarás una selección de links de **cursos, tutoriales, herramientas
 4. [Curso completo de Arduino](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%204%20Arduino%20desde%20Cero.md) : + 7h de duración.  
 5. [Simuladores de Arduino](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%205%20Simuladores%20de%20Arduino%20OnLine.md#-simuladores-de-arduino-online)
 
-## Posibles Proyectos:
-
-## **🔧 Proyectos para Nivel Básico**  
-*(Enfocados en electrónica fundamental y programación embebida con Arduino)*  
-
 
 ## **⚡ Proyectos**  
 
