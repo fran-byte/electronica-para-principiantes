@@ -7,5 +7,5 @@
 
 ## **Herramientas Indispensables**  
 
-[Sección Herramientas (dentro de curso de robótica](https://www.cursoderobotica.com/herramientas-para-electronica/)  
+[Sección Herramientas (dentro de curso de robótica)](https://www.cursoderobotica.com/herramientas-para-electronica/)  
 
