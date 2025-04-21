@@ -10,7 +10,7 @@ Aquí encontrarás una selección de links de **cursos, tutoriales, herramientas
 ✅ Optimizar tus diseños con tips de expertos.  
 
 ## 🛠 **¿Por dónde empezar?** 
-## Videos:
+## Selección de Videos:
 1. [Herramientas](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%201%20Herramientas.md)
 2. [Conceptos básicos](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%202%20Conceptos%20b%C3%A1sicos.md) : Conceptos esenciales (ley de Ohm, circuitos, componentes). 
 3. [Curso Electrónica](https://github.com/fran-byte/Electronica-para-principiantes/blob/main/M%C3%B3dulo%203%20Curso%20B%C3%A1sico%20de%20Electr%C3%B3nica.md) : Electrónica paso a paso ( 4 horas )
