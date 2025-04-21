@@ -24,7 +24,7 @@ Aquí encontrarás una selección de links de **cursos, tutoriales, herramientas
 ## **⚡ Algunas ideas sobre Proyectos**  
  ( Antes de iniciar los proyectos es necesario repasar los tutoriales )
 
-| ✅  Nivel Básico                  | ❗ Nivel Intermedio                  |
+| ✅  Nivel Básico                  |❗ Nivel Intermedio                  |
 |-----------------------------------|--------------------------------------|
 | **1. LED Parpadeante**            | **1. Monitor de Consumo**            |
 | - Arduino UNO                     | - Arduino/ESP32                      |
