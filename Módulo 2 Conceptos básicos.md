@@ -1,4 +1,4 @@
-# **Módulo 2: Conceptos Básicos de Electrónica**  
+# **Módulo 2 Conceptos Básicos de Electrónica**  
 *(Fundamentos esenciales antes de programar microcontroladores)*  
 
 ---
