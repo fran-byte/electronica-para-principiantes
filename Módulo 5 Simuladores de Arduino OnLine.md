@@ -1,6 +1,6 @@
 # 🎮 **Módulo 5 Simuladores de Arduino Online**  
 
-¿Quieres practicar con **Arduino** pero no tienes el hardware a mano? ¡No hay problema! Con estos **simuladores online**, podrás programar, diseñar circuitos y probar proyectos virtualmente antes de llevarlos a la vida real.  
+¿Quieres practicar con **Arduino** pero no tienes el hardware a mano? No hay problema! Con estos **simuladores online**, podrás programar, diseñar circuitos y probar proyectos virtualmente antes de llevarlos a la vida real.  
 
 ## 🛠️ **¿Por qué usar un simulador?**  
 ✅ Ideal para principiantes sin componentes físicos.  
